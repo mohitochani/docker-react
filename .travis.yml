@@ -7,5 +7,6 @@ before_install:
     - docker build -t mohitochani/docker-react -f Dockerfile.dev .
     
 script:
-    - docker run mohitochani/docker-react npm run test -- --coverage
+    - docker run -e CI=true mohitochani/docker-react npm run test -- --coverage
     
+language: generic 
