@@ -11,7 +11,7 @@ function App() {
           Edit the required file <code>src/App.js</code> and save to reload.
 		  Let's Nacho
 		  Hello!
-		  Finally uploaded on AWS
+		  Finally uploaded on AWS!!
         </p>
         <a
           className="App-link"
