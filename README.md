@@ -1,3 +1,7 @@
+
+Sample Project Setup to Deploy React App to AWS Elastic Beanstalk
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
